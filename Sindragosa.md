@@ -1,6 +1,6 @@
 # Sindragosa
 
-![Sindragosa](images/sindragosa.jpg)
+![Sindragosa](Sindragosa.jpg)
 
 ## Race
 
