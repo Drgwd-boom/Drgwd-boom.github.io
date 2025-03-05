@@ -1,6 +1,6 @@
 # Professor Putricide
 
-![Professor Putricide](images/professor_putricide.jpg)
+![Professor Putricide](Professor_Putricide.jpg)
 
 ## Race
 
