@@ -1,6 +1,6 @@
 # Lord Marrowgar
 
-![Lord Marrowgar](images/lord_marrowgar.jpg)
+![Lord Marrowgar](Lord_Marrowgar.jpg)
 
 ## Race
 
