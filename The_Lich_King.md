@@ -1,6 +1,6 @@
 # The Lich King
 
-![The Lich King](the_lich_king.jpg)
+![The Lich King](The_lich_king.jpg)
 
 ## Race
 
